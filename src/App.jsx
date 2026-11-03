@@ -18,9 +18,7 @@ function App() {
         </div>
         <div>
           <h1>Welcome to my React app</h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
+          <p>I am learning React and Git.</p>
         </div>
         <button
           type="button"
