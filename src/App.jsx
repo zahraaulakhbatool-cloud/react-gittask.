@@ -101,6 +101,12 @@ function App() {
 
       <div className="ticks"></div>
       <section id="spacer"></section>
+
+      {/* New footer section */}
+      <footer className="app-footer">
+        <p>© 2026 My React Learning Board</p>
+        <p>Built while learning React and Git.</p>
+      </footer>
     </>
   )
 }
