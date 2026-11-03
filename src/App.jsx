@@ -16,10 +16,12 @@ function App() {
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
+
         <div>
-          <h1>React Git practice board</h1>
+          <h1>My React learning board</h1>
           <p>I am learning React and Git.</p>
         </div>
+
         <button
           type="button"
           className="counter"
@@ -53,6 +55,7 @@ function App() {
             </li>
           </ul>
         </div>
+
         <div id="social">
           <svg className="icon" role="presentation" aria-hidden="true">
             <use href="/icons.svg#social-icon"></use>
